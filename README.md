@@ -4,6 +4,7 @@
 - JDK11
 - springboot2.5.2
 - h2
+- JPA
 
 ## 기능
 - 회원관리
