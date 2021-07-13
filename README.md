@@ -1,7 +1,7 @@
 # BBS 게시판 만들기
 ## 개발도구
 - intelliJ
-- JDK11
+- JDK8
 - springboot2.5.2
 - h2
 - JPA
